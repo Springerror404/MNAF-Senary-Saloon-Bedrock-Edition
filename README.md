@@ -17,11 +17,19 @@ CHANGES:
 6.animatronics glow
 
 7.now have to click the tablet in the red office to enter cams
+
 ------------------------------
+
 Added:
+
 -----------------------------
+
 1.Transparent Balloons
+
 2.now can sit at the bar in the bar seats
+
 3.peanuts and paper
+
 4.Heads in the credits room
+
 -----------------------------
