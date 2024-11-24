@@ -33,3 +33,19 @@ Added:
 4.Heads in the credits room
 
 -----------------------------
+
+Discord Servers
+
+-----------------------------
+
+CavemanFilms Server : Dweller Central | https://discord.gg/cavemanfilms
+
+--------------------------------------------
+
+Springerror404 Server : -𝗠𝗡𝗮𝗙-:⭐ 𝗘𝗻𝘁𝗲𝗿𝘁𝗮𝗶𝗻𝗺𝗲𝗻𝘁-⭐ | https://discord.gg/2wEjQMsUDe
+
+--------------------------------------------
+
+BlueyFilms Server : Mine Night's at Freddy's : BEDROCK | https://discord.gg/2ajuUxbuzc
+
+--------------------------------------------
