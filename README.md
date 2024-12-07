@@ -1,5 +1,6 @@
 # MNAF-Senary-Saloon-Bedrock-Edition
-![Screenshot (256)](https://github.com/user-attachments/assets/730c9cfb-39d0-44e2-adef-fca677428f79)
+![2024-11-01_20 29 46 02](https://github.com/user-attachments/assets/25769f7f-1d45-430a-b2ba-0e7cd250e9a6)
+![map-update-icon](https://github.com/user-attachments/assets/6c7b4749-f171-4d21-90b7-f8a2efee17e8)
 DOWNLOAD MAP UPDATE: https://www.mediafire.com/file/3mtlbmqjioyy0c0/§l§4MNaF6+1.21++Update+(2).mcworld/file
 -----------------------------
 
