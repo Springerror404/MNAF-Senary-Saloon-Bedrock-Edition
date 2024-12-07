@@ -1,6 +1,5 @@
 # MNAF-Senary-Saloon-Bedrock-Edition
-![2024-11-01_20 29 46 02](https://github.com/user-attachments/assets/0d7a375e-3174-4e8f-8717-2edc53aa0311)
-
+![Screenshot (256)](https://github.com/user-attachments/assets/730c9cfb-39d0-44e2-adef-fca677428f79)
 DOWNLOAD MAP UPDATE: https://www.mediafire.com/file/3mtlbmqjioyy0c0/§l§4MNaF6+1.21++Update+(2).mcworld/file
 -----------------------------
 
@@ -20,6 +19,8 @@ CHANGES:
 6.animatronics glow
 
 7.now have to click the tablet in the red office to enter cams
+
+8. Cams Items was added
 
 ------------------------------
 
