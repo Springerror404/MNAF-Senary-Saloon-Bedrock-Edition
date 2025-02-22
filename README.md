@@ -1,7 +1,7 @@
 # MNAF-Senary-Saloon-Bedrock-Edition-1.21.61+
 ![2024-11-01_20 29 46 02](https://github.com/user-attachments/assets/25769f7f-1d45-430a-b2ba-0e7cd250e9a6)
 ![v2](https://github.com/user-attachments/assets/ae425153-0712-4bfc-9cfb-c51add00ba83)
-DOWNLOAD MAP UPDATE: https://www.mediafire.com/file/3mtlbmqjioyy0c0/§l§4MNaF6+1.21++Update+(2).mcworld/file
+DOWNLOAD MAP UPDATE: https://www.mediafire.com/file/zpinl641crktri6/%25C2%25A7l%25C2%25A74MNaF6_1.21.61_Update_%25283%2529.mcworld/file
 -----------------------------
 Original Bedrock Port From :D3VIANT06MURASAKI2142 
 
